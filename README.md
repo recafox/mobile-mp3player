@@ -3,7 +3,7 @@
 a simple mp3 player for **mobile** devices
 請使用手機模式觀看
 
-[DEMO](https://recafox.github.io/Project02-Mp3player/)
+[DEMO](https://recafox.github.io/mobile-mp3player/)
 
 ## 功能:
 
